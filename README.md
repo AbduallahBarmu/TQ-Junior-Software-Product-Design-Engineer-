@@ -44,7 +44,7 @@ between (header and bottom section)then each column is scrolled in itself if/whe
 
 Markdown Syntex : 
 
-[+ New User](#link) `023e8a`    [x]  Hide Disabled User                               [Save User]`023e8a`
+[+ New User](#link)    [x]  Hide Disabled User                               [Save User](#link)
 
 
 | ID | User Name |      Email          | Enabled  |
@@ -76,17 +76,15 @@ Markdown Syntex :
 
 [______]  <!-- Input box -->
 
-### User Roles: 
-
-select user roles ..
+### User Roles: select user roles ..
 
 - [ ] Guest
 - [ ] Admin
 - [ ] SuperAdmin
 
-### Enabled
+### Enabled: 
 
 - [ ]  <!-- Checkbox -->
 
 
-Check this box to enable the user
+
